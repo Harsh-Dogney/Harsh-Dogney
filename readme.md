@@ -7,16 +7,26 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
+<table>
+  <tr>
+    <td>
+
 - 🎓 Student @ **VIT University**  
-- 💼 Working on real-world projects in **MERN Stack**, **Node.js**.
-- 🎯 **Goal**: Build daily-use platforms & scalable products for real people
-- 🔍 Currently exploring: **System Design**, and **WebSocket Integrations**
-- 🧠 Learning to master: **C++, Data Structures, Microservices, AI APIs**
-- 🧰 I love solving problems on **GeeksforGeeks (260+ solved)** and **Leetcode (170+)**
-- 🧩 Certified in: AWS Cloud Practitioner & Azure Admin Associate
+- 💼 Working on real-world projects in **MERN Stack**, **Node.js** and **AWS**.  
+- 🎯 **Goal**: Build daily-use platforms & scalable products for real people  
+- 🔍 Currently exploring: **System Design**, and **WebSocket Integrations**  
+- 🧠 Learning to master: **C++, Data Structures, Microservices, AI APIs**  
+- 🧰 I love solving problems on **GeeksforGeeks (260+ solved)** and **Leetcode (170+)**  
+- 🧩 Certified in: AWS Cloud Practitioner & Azure Admin Associate  
+
+    </td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFvdzBrZTc0bDQ0cWVzdTRvemRyNDY2Njl0cHNscXRwcnpjZDNqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="250" />
+    </td>
+  </tr>
+</table>
 
 ---
 
