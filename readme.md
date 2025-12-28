@@ -13,7 +13,7 @@
   <tr>
     <td>
 
-- 🎓 Student @ **VIT University**  
+- 🎓@ **VIT University** Graduate
 - 💼 Working on real-world projects in **MERN Stack**, **Node.js** and **AWS**.  
 - 🎯 **Goal**: Build daily-use platforms & scalable products for real people  
 - 🔍 Currently exploring: **System Design**, and **WebSocket Integrations**  
